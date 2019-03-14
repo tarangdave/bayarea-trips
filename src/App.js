@@ -1,6 +1,14 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+var mapboxgl = require('mapbox-gl/dist/mapbox-gl.js');
+
+mapboxgl.accessToken = 'pk.eyJ1IjoidGFyYW5nYWRhdmUiLCJhIjoiY2lxbnlzOW50MDFmcGZwbmh4aTNsNTBvMCJ9.6aajD-dmKN8aJIT5UG0aQQ';
+var map = new mapboxgl.Map({
+  container: 'root',
+  style: 'mapbox://styles/mapbox/streets-v11'
+});
+
 
 class App extends Component {
   render() {
