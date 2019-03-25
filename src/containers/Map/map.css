@@ -1,0 +1,23 @@
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  z-index: 1;
+}
+
+.tooltip {
+  pointer-events: none; 
+  position: absolute; 
+  z-index: 9; 
+  font-size: 15px; 
+  padding: 8px; 
+  background: #f2f2f2; 
+  border-radius: 3px;
+  color: #353535; 
+  min-width: 160px; 
+  max-height: 240px; 
+  overflow-y: hidden;
+  -webkit-box-shadow: 0px 2px 5px 0px rgba(23,28,33,0.1);
+  -moz-box-shadow: 0px 2px 5px 0px rgba(23,28,33,0.1);
+  box-shadow: 0px 2px 5px 0px rgba(23,28,33,0.1);
+}
