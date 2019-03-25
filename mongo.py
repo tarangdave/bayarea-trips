@@ -22,7 +22,6 @@ for f in files:
 
 	db.trips_data.insert_one(obj)
 
-cursor = db.trips_data.find()
-
-for inventory in cursor:
-	pprint(inventory)
+# cursor = db.trips_data.find()
+print("Successfully indexed data")
+client.close()
