@@ -15,3 +15,8 @@ A performant web app containing an interactive map visualizing the distribution 
 ## Running the project
 + ```npm run start```
 + Visit ```http://localhost:3000``` if the script doesn't automatically redirects.
+
+## How it looks
+![Map Render](https://github.com/tarangdave/bayarea-trips/blob/master/images/globMap.png)
+![Map Render](https://github.com/tarangdave/bayarea-trips/blob/master/images/tooltipMap.png)
+![Map Render](https://github.com/tarangdave/bayarea-trips/blob/master/images/zoomMap.png)
