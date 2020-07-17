@@ -10,7 +10,7 @@
     "geostats": "^1.7.0",
     "key-mirror": "^1.0.1",
     "leaflet": "^1.4.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "mapbox-gl": "^0.53.0",
     "mapbox-gl-leaflet": "0.0.4",
     "moment": "^2.24.0",
