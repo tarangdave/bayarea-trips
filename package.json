@@ -13,7 +13,7 @@
     "lodash": "^4.17.13",
     "mapbox-gl": "^0.53.0",
     "mapbox-gl-leaflet": "0.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.23",
     "mongoose": "^5.4.19",
     "prop-types": "^15.7.2",
