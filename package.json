@@ -14,7 +14,7 @@
     "mapbox-gl": "^0.53.0",
     "mapbox-gl-leaflet": "0.0.4",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.23",
+    "moment-timezone": "^0.5.35",
     "mongoose": "^5.4.19",
     "prop-types": "^15.7.2",
     "react": "^16.8.3",
